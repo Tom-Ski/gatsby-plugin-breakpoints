@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-breakpoints",
+  "name": "gatsby-plugin-breakpoints-gatsby-5-patch",
   "version": "1.3.9",
   "description": "Gatsby plugin providing breakpoints using React Hooks",
   "keywords": [
@@ -13,15 +13,15 @@
     "responsive"
   ],
   "main": "index.js",
-  "author": "Jimmy Beldone <dev.jimmy.beldone@gmail.com>",
-  "homepage": "https://github.com/JimmyBeldone/gatsby-plugin-breakpoints",
+  "author": "Jimmy Beldone <dev.jimmy.beldone@gmail.com>, Tom Wojciechowski <tom@asidik.com>",
+  "homepage": "https://github.com/Tom-Ski/gatsby-plugin-breakpoints",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JimmyBeldone/gatsby-plugin-breakpoints.git"
+    "url": "https://github.com/Tom-Ski/gatsby-plugin-breakpoints.git"
   },
   "bugs": {
-    "email": "dev.jimmy.beldone@gmail.com",
-    "url": "https://github.com/JimmyBeldone/gatsby-plugin-breakpoints/issues"
+    "email": "tom@asidik.com",
+    "url": "https://github.com/Tom-Ski/gatsby-plugin-breakpoints/issues"
   },
   "scripts": {
     "commit": "git-cz",
